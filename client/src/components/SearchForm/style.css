@@ -1,5 +1,5 @@
 form{
-    background: #9494ff;
+    background: #4e4eff;
     border-radius: 15px;
 }
 .BookSearchLabel{
@@ -9,6 +9,7 @@ form{
 .submitBtn{
     margin-bottom: 10px;
     margin-left: 20px;
+    background-color: white;
 }
 .form-control{
     margin-left: 20px;
