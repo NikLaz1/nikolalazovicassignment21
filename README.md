@@ -2,7 +2,9 @@
 Google Book Search
 
 Links
+
 Github: https://github.com/NikLaz1/nikolalazovicassignment21
+
 Heroku: https://nikolalazovicassignment21.herokuapp.com/
 
 Technical Requirements
